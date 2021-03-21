@@ -23,6 +23,7 @@ According to the Google documentation, build variants are the result of Gradle u
            
             def STRING = "String"
             def URL = "BASE_URL"
+            
             food {
                 dimension "product"
                 applicationIdSuffix ".food"
