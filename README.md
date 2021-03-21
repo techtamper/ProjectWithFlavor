@@ -72,7 +72,10 @@ According to the Google documentation, build variants are the result of Gradle u
             
             
             
-<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/flavors.png" width="400"> 
+<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/flavors.png" width="600"> 
             
 
 Build the project and once done, select **Build > Select Build Variant** in the menu bar, and you will see the different Build Variants auto-generated when you added the Product flavors.
+
+
+<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/app.jpg" width="700"> 
