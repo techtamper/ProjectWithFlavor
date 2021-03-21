@@ -12,7 +12,7 @@ Build Variants are formed by Build Types and Product Flavors.
 According to the Google documentation, build variants are the result of Gradle using a specific set of rules to combine settings, code, and resources configured in your build types and product flavors.
 
 
-**Build Type** applies different build and packaging settings. An example of build types are “Debug” and “Release”.
+**Build Type** applies different build and packaging settings. An example of build types are **“Debug” and “Release”.**
 
 **Product Flavors** specify different features and device requirements, such as custom source code, resources, and minimum API levels.
 
@@ -20,6 +20,7 @@ According to the Google documentation, build variants are the result of Gradle u
 ## Product Flavors
 
            productFlavors {
+           
             def STRING = "String"
             def URL = "BASE_URL"
             food {
