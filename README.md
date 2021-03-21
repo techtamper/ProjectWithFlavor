@@ -1,6 +1,6 @@
 # ProjectWithFlavors
 
-Here is everything you need to know about product flavors and real-time problems with solutions.
+Here is everything you need to know about product flavors and real-time solutions.
 
 Product flavors are nothing but preparing different dishes using the same core ingredients but adding minor flavor toppings to get a different taste. To better understand product flavors let us consider a example:
 
