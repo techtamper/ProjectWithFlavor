@@ -7,7 +7,7 @@ Product flavors are nothing but preparing different dishes using the same core i
 You ever seen Free and Pro versions of the same app in playstore, Pro version have all features of the free version, also with pro features.
 
 
- <img src="https://github.com/techtamper/ProjectWithFlavor/raw/main/screenshot/video.gif" width="205"> 
+ <img src="https://github.com/techtamper/ProjectWithFlavor/raw/master/screenshot/video.gif" width="260"> 
 
 # Build Variants
 
