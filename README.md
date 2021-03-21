@@ -7,8 +7,7 @@ Product flavors are nothing but preparing different dishes using the same core i
 You ever seen Free and Pro versions of the same app in playstore, Pro version have all features of the free version, also with pro features.
 
 
-<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/app.jpg" width="700"> 
-
+ <img src="https://github.com/techtamper/ProjectWithFlavor/raw/main/screenshot/video.gif" width="205"> 
 
 # Build Variants
 
@@ -67,8 +66,11 @@ According to the Google documentation, build variants are the result of Gradle u
                 buildConfigField "String", "BASE_URL", '"https://www.flickr.com/services/"'
             }
         }
-        
-        
+
+
+<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/app.jpg" width="700"> 
+
+
 ## In gradle.properties file
         
             # QA URL
