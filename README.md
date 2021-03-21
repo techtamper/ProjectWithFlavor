@@ -5,6 +5,10 @@ Here is everything you need to know about product flavors and real-time solution
 Product flavors are nothing but preparing different dishes using the same core ingredients but adding minor flavor toppings to get a different taste. To better understand product flavors let us consider a example:
 
 You ever seen Free and Pro versions of the same app in playstore, Pro version have all features of the free version, also with pro features.
+
+<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/app.jpg" width="700"> 
+
+
 # Build Variants
 
 Build Variants are formed by Build Types and Product Flavors.
@@ -82,4 +86,4 @@ According to the Google documentation, build variants are the result of Gradle u
 Build the project and once done, select **Build > Select Build Variant** in the menu bar, and you will see the different Build Variants auto-generated when you added the Product flavors.
 
 
-<img src="https://github.com/techtamper/ProjectWithFlavor/blob/master/screenshot/app.jpg" width="700"> 
+
