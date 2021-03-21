@@ -14,6 +14,7 @@ class HomeFoodActivity : MainActivity() {
     private fun initialUi() {
         mBinding.appName.text = getString(R.string.app_name)
         mBinding.edtSearch.setText("Burger")
+
     }
 
 }
