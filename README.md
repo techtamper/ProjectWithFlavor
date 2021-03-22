@@ -89,4 +89,20 @@ According to the Google documentation, build variants are the result of Gradle u
 Build the project and once done, select **Build > Select Build Variant** in the menu bar, and you will see the different Build Variants auto-generated when you added the Product flavors.
 
 
+ 
+## LICENSE
+```
+
+
+                                Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+             TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+```
+
+
+
+
 
